@@ -1,7 +1,7 @@
 # Astra-Login-Manager
-Quickshell based, rust coded login manager that goes well with Astra-Window-Manager (a astra-airlock fork :))
+A TUI Login Manager That Links Directly With ASTRA-CLI / ASTRA-TUI and ASTRA-WM Projects
 
 ## Dependencies
-1. Greetd
-2. NodeJS (it is a web based M3 design)
-3. good text editor
+1. Bash
+2. Sudo
+3. Any Linux Distro
